@@ -7,3 +7,5 @@ A Study of Free-Text Explanations for Model Predictions", to appear at BlackboxN
 explanations from the GPT-ST and GPT-MT models. 
 * The notebook includes all annotators' ratings, postprocessing as well as the calculations for the human evaluation scores
 and Krippendorff's alpha (in the utils file, taken from https://github.com/grrrr/krippendorff-alpha), and some other stats.
+
+For the rest of the code and data for this paper, see Martin's repo: https://github.com/martinjirenius/reasoning-pipeline-models.
